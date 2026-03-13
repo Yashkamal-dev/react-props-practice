@@ -22,26 +22,23 @@ The project displays a list of professional profile cards such as software engin
 ## Project Structure
 
 ```bash
-├── public/ (400 tokens)
-    ├── preview.png
-    └── vite.svg (300 tokens)
+├── public/
+    └──  preview.png
 ├── vite.config.js
-├── src/ (3400 tokens)
+├── src/
     ├── main.jsx
-    ├── App.css (200 tokens)
-    ├── components/ (300 tokens)
-    │   └── card.jsx (300 tokens)
-    ├── index.css (700 tokens)
-    ├── assets/ (900 tokens)
-    │   └── react.svg (900 tokens)
-    └── App.jsx (1200 tokens)
+    ├── App.css
+    ├── components/
+    │   └── card.jsx
+    ├── index.css
+    ├── assets/
+    └── App.jsx
 ├── .gitignore
 ├── index.html
-├── package.json (200 tokens)
-├── eslint.config.js (200 tokens)
-└── README.md (300 tokens)
+├── package.json
+├── eslint.config.js
+└── README.md
 ```
-
 
 ## Example
 
