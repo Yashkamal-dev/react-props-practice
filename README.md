@@ -4,7 +4,9 @@ This is a small React practice project created to understand how **props** work 
 
 The project displays a list of professional profile cards such as software engineers, data engineers, and developers. Each card is rendered using a reusable React component and receives its data through props.
 
-## Features
+---
+
+## 🔹 Features
 
 - Reusable React components
 - Passing data using props
@@ -12,18 +14,24 @@ The project displays a list of professional profile cards such as software engin
 - Simple responsive design
 - Dynamic rendering of multiple profiles
 
-## Preview
+---
+
+## 🔹 Preview
 
 ![Project Screenshot](./public/preview.png)
 
-## Concepts Practiced
+---
+
+## 🔹 Concepts Practiced
 
 - React components
 - Props
 - Component reuse
 - Basic project structure
 
-## Project Structure
+---
+
+## 🔹 Project Structure
 
 ```bash
 ├── public/
@@ -44,7 +52,9 @@ The project displays a list of professional profile cards such as software engin
 └── README.md
 ```
 
-## Example
+---
+
+## 🔹 Example
 
 Each profile card receives props like:
 
@@ -57,12 +67,16 @@ Each profile card receives props like:
 
 These props are then displayed inside the reusable `ProfileCard` component.
 
-## Tech Used
+---
+
+## 🔹 Tech Used
 
 - React
 - JavaScript
 - CSS
 
-## Purpose
+---
+
+## 🔹 Purpose
 
 This project was created purely for learning and practicing **React props and component reuse**.
