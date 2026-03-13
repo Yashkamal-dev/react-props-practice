@@ -12,6 +12,10 @@ The project displays a list of professional profile cards such as software engin
 - Simple responsive design
 - Dynamic rendering of multiple profiles
 
+## Preview
+
+![Project Screenshot](./public/preview.png)
+
 ## Concepts Practiced
 
 - React components
@@ -52,10 +56,6 @@ Each profile card receives props like:
 - profile image
 
 These props are then displayed inside the reusable `ProfileCard` component.
-
-## Screenshot
-
-![Project Screenshot](./public/preview.png)
 
 ## Tech Used
 
